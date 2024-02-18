@@ -1,10 +1,12 @@
 # Protein Expression
 
----
-
 ## How to Use?
 
 - Create a folder where you want to store the files
+- Clone the repository
+```git
+git clone https://github.com/ArnabBanik-repo/protein-expression .
+```
 - Create a virtual environment
 ```bash
 python -m venv venv
